@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Learning how to work with Cloud9 Workspaces, to create simple Node.js application with Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonigogitter/se3316-nodejs-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonigogitter/se3316-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/tonigogitter/se3316-nodejs-test#readme"
+}
